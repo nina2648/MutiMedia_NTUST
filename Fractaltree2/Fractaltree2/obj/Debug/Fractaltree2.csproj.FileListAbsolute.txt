@@ -1,0 +1,9 @@
+E:\課業\Fractaltree2\Fractaltree2\bin\Debug\Fractaltree2.exe.config
+E:\課業\Fractaltree2\Fractaltree2\bin\Debug\Fractaltree2.exe
+E:\課業\Fractaltree2\Fractaltree2\bin\Debug\Fractaltree2.pdb
+E:\課業\Fractaltree2\Fractaltree2\obj\Debug\Fractaltree2.csprojResolveAssemblyReference.cache
+E:\課業\Fractaltree2\Fractaltree2\obj\Debug\Fractaltree2.Form1.resources
+E:\課業\Fractaltree2\Fractaltree2\obj\Debug\Fractaltree2.Properties.Resources.resources
+E:\課業\Fractaltree2\Fractaltree2\obj\Debug\Fractaltree2.csproj.GenerateResource.Cache
+E:\課業\Fractaltree2\Fractaltree2\obj\Debug\Fractaltree2.exe
+E:\課業\Fractaltree2\Fractaltree2\obj\Debug\Fractaltree2.pdb
